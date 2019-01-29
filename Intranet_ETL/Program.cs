@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,20 +14,19 @@ namespace Intranet_ETL
     {
         public static void Main(string[] args)
         {
-            DateTime now = DateTime.Now;
-
             //Configure Logging
             var config = new NLog.Config.LoggingConfiguration();
             var logfile = new NLog.Targets.FileTarget("logfile") { FileName = "etl_log.txt" };
             var logconsole = new NLog.Targets.ConsoleTarget("logconsole");
+            string userName = System.Security.Principal.WindowsIdentity.GetCurrent().Name;
 
             config.AddRule(LogLevel.Info, LogLevel.Fatal, logfile);
-           //config.AddRule(LogLevel.Debug, LogLevel.Fatal, logfile);
+            //config.AddRule(LogLevel.Debug, LogLevel.Fatal, logfile);
 
             NLog.LogManager.Configuration = config;
 
             var logger = NLog.LogManager.GetCurrentClassLogger();
-            logger.Info("ETL Start");
+            logger.Info($"ETL Started by {userName}");
 
             //Define Source and Target Connections
             using (MySqlConnection sourceConnection = new MySqlConnection(GetSourceConnectionString()))
@@ -54,8 +53,15 @@ namespace Intranet_ETL
 
                         //Clear down destination
                         SqlCommand emptyDestinationTable = new SqlCommand(clearDestinationTable(targetTable), targetConnection);
-                        emptyDestinationTable.ExecuteNonQuery();
-                        logger.Info($"{targetTable} cleared down");
+                        try
+                        {
+                            emptyDestinationTable.ExecuteNonQuery();
+                            logger.Info($"{targetTable} cleared down");
+                        } 
+                        catch (Exception ex)
+                        {
+                            logger.Error($"{ex} - {targetTable} failed to clear down");
+                        }
 
                         //Write data to target
                         try
@@ -75,19 +81,20 @@ namespace Intranet_ETL
 
                         //Add date updated to table
                         SqlCommand updateDateUpdated = new SqlCommand(addDateUpdated(targetTable), targetConnection);
-                        updateDateUpdated.ExecuteNonQuery();
-                        logger.Info($"{targetTable} date built updated");
-
-                        Console.WriteLine($"{targetTable} has been filled");
+                        try
+                        {
+                            updateDateUpdated.ExecuteNonQuery();
+                            logger.Info($"{targetTable} date built updated");
+                        }
+                        catch (Exception ex)
+                        {
+                            logger.Error($"{ex} - {targetTable} failed to update date built");
+                        }
                     }
-                    
                 }
             }
 
-
-            logger.Info("ETL Finished");
-
-            //Console.ReadLine();
+            logger.Info($"ETL Finished by {userName}");
         }
 
         private static string GetSourceConnectionString()
@@ -112,7 +119,6 @@ namespace Intranet_ETL
 
             return targetConnectionString;
         }
-
         
         private static string GetSourceQuery(string tableName)
         {
@@ -164,7 +170,6 @@ namespace Intranet_ETL
         {
             return $"UPDATE {tableName} SET date_built=GETDATE()";
         }
-
 
         enum TablesList
         {
