@@ -1,0 +1,6 @@
+C:\Users\imran.hashmi.LANGLEYS\source\repos\MyCodeLibrary\MyCodeLibrary\bin\Debug\MyCodeLibrary.dll
+C:\Users\imran.hashmi.LANGLEYS\source\repos\MyCodeLibrary\MyCodeLibrary\bin\Debug\MyCodeLibrary.pdb
+C:\Users\imran.hashmi.LANGLEYS\source\repos\MyCodeLibrary\MyCodeLibrary\obj\Debug\MyCodeLibrary.csprojAssemblyReference.cache
+C:\Users\imran.hashmi.LANGLEYS\source\repos\MyCodeLibrary\MyCodeLibrary\obj\Debug\MyCodeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\imran.hashmi.LANGLEYS\source\repos\MyCodeLibrary\MyCodeLibrary\obj\Debug\MyCodeLibrary.dll
+C:\Users\imran.hashmi.LANGLEYS\source\repos\MyCodeLibrary\MyCodeLibrary\obj\Debug\MyCodeLibrary.pdb

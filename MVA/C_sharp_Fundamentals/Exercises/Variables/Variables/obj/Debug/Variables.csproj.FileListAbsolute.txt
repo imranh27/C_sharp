@@ -1,0 +1,7 @@
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Variables\Variables\bin\Debug\Variables.exe
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Variables\Variables\obj\Debug\Variables.csprojAssemblyReference.cache
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Variables\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Variables\Variables\obj\Debug\Variables.exe
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Variables\Variables\obj\Debug\Variables.pdb

@@ -1,0 +1,7 @@
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Noughts\Noughts\bin\Debug\Noughts.exe.config
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Noughts\Noughts\bin\Debug\Noughts.exe
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Noughts\Noughts\bin\Debug\Noughts.pdb
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Noughts\Noughts\obj\Debug\Noughts.csprojAssemblyReference.cache
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Noughts\Noughts\obj\Debug\Noughts.csproj.CoreCompileInputs.cache
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Noughts\Noughts\obj\Debug\Noughts.exe
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Noughts\Noughts\obj\Debug\Noughts.pdb

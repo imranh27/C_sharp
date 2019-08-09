@@ -1,0 +1,6 @@
+C:\Users\imran.hashmi.LANGLEYS\source\repos\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.exe.config
+C:\Users\imran.hashmi.LANGLEYS\source\repos\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.exe
+C:\Users\imran.hashmi.LANGLEYS\source\repos\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.pdb
+C:\Users\imran.hashmi.LANGLEYS\source\repos\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.csproj.CoreCompileInputs.cache
+C:\Users\imran.hashmi.LANGLEYS\source\repos\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.exe
+C:\Users\imran.hashmi.LANGLEYS\source\repos\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.pdb

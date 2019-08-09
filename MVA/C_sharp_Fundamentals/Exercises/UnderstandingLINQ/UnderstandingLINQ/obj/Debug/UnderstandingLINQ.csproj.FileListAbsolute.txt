@@ -1,0 +1,7 @@
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\UnderstandingLINQ.csprojAssemblyReference.cache
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\UnderstandingLINQ.csproj.CoreCompileInputs.cache
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\UnderstandingLINQ\UnderstandingLINQ\bin\Debug\UnderstandingLINQ.exe.config
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\UnderstandingLINQ\UnderstandingLINQ\bin\Debug\UnderstandingLINQ.exe
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\UnderstandingLINQ\UnderstandingLINQ\bin\Debug\UnderstandingLINQ.pdb
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\UnderstandingLINQ.exe
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\UnderstandingLINQ.pdb

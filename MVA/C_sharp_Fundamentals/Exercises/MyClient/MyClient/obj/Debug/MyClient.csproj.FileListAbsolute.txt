@@ -1,0 +1,10 @@
+C:\Users\imran.hashmi.LANGLEYS\source\repos\MyClient\MyClient\bin\Debug\MyClient.exe.config
+C:\Users\imran.hashmi.LANGLEYS\source\repos\MyClient\MyClient\bin\Debug\MyClient.exe
+C:\Users\imran.hashmi.LANGLEYS\source\repos\MyClient\MyClient\bin\Debug\MyClient.pdb
+C:\Users\imran.hashmi.LANGLEYS\source\repos\MyClient\MyClient\bin\Debug\MyCodeLibrary.dll
+C:\Users\imran.hashmi.LANGLEYS\source\repos\MyClient\MyClient\bin\Debug\MyCodeLibrary.pdb
+C:\Users\imran.hashmi.LANGLEYS\source\repos\MyClient\MyClient\obj\Debug\MyClient.csprojAssemblyReference.cache
+C:\Users\imran.hashmi.LANGLEYS\source\repos\MyClient\MyClient\obj\Debug\MyClient.csproj.CoreCompileInputs.cache
+C:\Users\imran.hashmi.LANGLEYS\source\repos\MyClient\MyClient\obj\Debug\MyClient.csproj.CopyComplete
+C:\Users\imran.hashmi.LANGLEYS\source\repos\MyClient\MyClient\obj\Debug\MyClient.exe
+C:\Users\imran.hashmi.LANGLEYS\source\repos\MyClient\MyClient\obj\Debug\MyClient.pdb

@@ -1,0 +1,7 @@
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\EnumsAndSwitch.exe.config
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\EnumsAndSwitch.exe
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\EnumsAndSwitch.pdb
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\EnumsAndSwitch.csprojAssemblyReference.cache
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\EnumsAndSwitch.csproj.CoreCompileInputs.cache
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\EnumsAndSwitch.exe
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\EnumsAndSwitch.pdb

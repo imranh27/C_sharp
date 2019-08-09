@@ -1,0 +1,7 @@
+C:\Users\imran.hashmi.LANGLEYS\source\repos\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.csprojAssemblyReference.cache
+C:\Users\imran.hashmi.LANGLEYS\source\repos\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.csproj.CoreCompileInputs.cache
+C:\Users\imran.hashmi.LANGLEYS\source\repos\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.exe.config
+C:\Users\imran.hashmi.LANGLEYS\source\repos\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.exe
+C:\Users\imran.hashmi.LANGLEYS\source\repos\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.pdb
+C:\Users\imran.hashmi.LANGLEYS\source\repos\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.exe
+C:\Users\imran.hashmi.LANGLEYS\source\repos\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.pdb

@@ -1,0 +1,7 @@
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\MVA\C_sharp_Fundamentals\Exercises\TimerExample\TimerExample\TimerExample\bin\Debug\TimerExample.exe.config
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\MVA\C_sharp_Fundamentals\Exercises\TimerExample\TimerExample\TimerExample\bin\Debug\TimerExample.exe
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\MVA\C_sharp_Fundamentals\Exercises\TimerExample\TimerExample\TimerExample\bin\Debug\TimerExample.pdb
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\MVA\C_sharp_Fundamentals\Exercises\TimerExample\TimerExample\TimerExample\obj\Debug\TimerExample.csprojAssemblyReference.cache
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\MVA\C_sharp_Fundamentals\Exercises\TimerExample\TimerExample\TimerExample\obj\Debug\TimerExample.csproj.CoreCompileInputs.cache
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\MVA\C_sharp_Fundamentals\Exercises\TimerExample\TimerExample\TimerExample\obj\Debug\TimerExample.exe
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\MVA\C_sharp_Fundamentals\Exercises\TimerExample\TimerExample\TimerExample\obj\Debug\TimerExample.pdb

@@ -1,0 +1,7 @@
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\WorkingWithCollections\WorkingWithCollections\bin\Debug\WorkingWithCollections.exe.config
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\WorkingWithCollections\WorkingWithCollections\bin\Debug\WorkingWithCollections.exe
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\WorkingWithCollections\WorkingWithCollections\bin\Debug\WorkingWithCollections.pdb
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\WorkingWithCollections\WorkingWithCollections\obj\Debug\WorkingWithCollections.csprojAssemblyReference.cache
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\WorkingWithCollections\WorkingWithCollections\obj\Debug\WorkingWithCollections.csproj.CoreCompileInputs.cache
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\WorkingWithCollections\WorkingWithCollections\obj\Debug\WorkingWithCollections.exe
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\WorkingWithCollections\WorkingWithCollections\obj\Debug\WorkingWithCollections.pdb

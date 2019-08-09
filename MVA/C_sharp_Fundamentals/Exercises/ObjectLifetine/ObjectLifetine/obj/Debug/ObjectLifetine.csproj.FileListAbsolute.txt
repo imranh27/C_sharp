@@ -1,0 +1,7 @@
+C:\Users\imran.hashmi.LANGLEYS\source\repos\ObjectLifetine\ObjectLifetine\bin\Debug\ObjectLifetine.exe.config
+C:\Users\imran.hashmi.LANGLEYS\source\repos\ObjectLifetine\ObjectLifetine\bin\Debug\ObjectLifetine.exe
+C:\Users\imran.hashmi.LANGLEYS\source\repos\ObjectLifetine\ObjectLifetine\bin\Debug\ObjectLifetine.pdb
+C:\Users\imran.hashmi.LANGLEYS\source\repos\ObjectLifetine\ObjectLifetine\obj\Debug\ObjectLifetine.csprojAssemblyReference.cache
+C:\Users\imran.hashmi.LANGLEYS\source\repos\ObjectLifetine\ObjectLifetine\obj\Debug\ObjectLifetine.csproj.CoreCompileInputs.cache
+C:\Users\imran.hashmi.LANGLEYS\source\repos\ObjectLifetine\ObjectLifetine\obj\Debug\ObjectLifetine.exe
+C:\Users\imran.hashmi.LANGLEYS\source\repos\ObjectLifetine\ObjectLifetine\obj\Debug\ObjectLifetine.pdb

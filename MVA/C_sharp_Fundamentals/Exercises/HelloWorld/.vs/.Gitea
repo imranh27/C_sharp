@@ -1,0 +1,12 @@
+{
+  "User": {
+    "Id": 1,
+    "Username": "imranh",
+    "Name": "imranh",
+    "Email": "imran.hashmi@langleys.com",
+    "AvatarUrl": "https://secure.gravatar.com/avatar/81b4e67fe6a3c994dd5d40dad0909ee0?d=identicon",
+    "PrivateToken": "password",
+    "Host": "http://127.0.0.1:3000",
+    "TwoFactorEnabled": false
+  }
+}

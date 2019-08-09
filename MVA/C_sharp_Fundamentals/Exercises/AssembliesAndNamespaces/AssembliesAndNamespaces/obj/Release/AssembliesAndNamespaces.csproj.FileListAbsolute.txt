@@ -1,0 +1,6 @@
+C:\Users\imran.hashmi.LANGLEYS\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Release\AssembliesAndNamespaces.exe.config
+C:\Users\imran.hashmi.LANGLEYS\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Release\AssembliesAndNamespaces.exe
+C:\Users\imran.hashmi.LANGLEYS\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Release\AssembliesAndNamespaces.pdb
+C:\Users\imran.hashmi.LANGLEYS\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Release\AssembliesAndNamespaces.csproj.CoreCompileInputs.cache
+C:\Users\imran.hashmi.LANGLEYS\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Release\AssembliesAndNamespaces.exe
+C:\Users\imran.hashmi.LANGLEYS\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Release\AssembliesAndNamespaces.pdb

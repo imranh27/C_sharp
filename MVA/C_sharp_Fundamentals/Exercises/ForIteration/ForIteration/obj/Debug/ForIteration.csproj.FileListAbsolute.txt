@@ -1,0 +1,14 @@
+C:\Users\imran.hashmi.LANGLEYS\source\repos\ForIteration\ForIteration\bin\Debug\ForIteration.exe.config
+C:\Users\imran.hashmi.LANGLEYS\source\repos\ForIteration\ForIteration\bin\Debug\ForIteration.exe
+C:\Users\imran.hashmi.LANGLEYS\source\repos\ForIteration\ForIteration\bin\Debug\ForIteration.pdb
+C:\Users\imran.hashmi.LANGLEYS\source\repos\ForIteration\ForIteration\obj\Debug\ForIteration.csprojAssemblyReference.cache
+C:\Users\imran.hashmi.LANGLEYS\source\repos\ForIteration\ForIteration\obj\Debug\ForIteration.csproj.CoreCompileInputs.cache
+C:\Users\imran.hashmi.LANGLEYS\source\repos\ForIteration\ForIteration\obj\Debug\ForIteration.exe
+C:\Users\imran.hashmi.LANGLEYS\source\repos\ForIteration\ForIteration\obj\Debug\ForIteration.pdb
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\MVA\C_sharp_Fundamentals\Exercises\ForIteration\ForIteration\bin\Debug\ForIteration.exe.config
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\MVA\C_sharp_Fundamentals\Exercises\ForIteration\ForIteration\bin\Debug\ForIteration.exe
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\MVA\C_sharp_Fundamentals\Exercises\ForIteration\ForIteration\bin\Debug\ForIteration.pdb
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\MVA\C_sharp_Fundamentals\Exercises\ForIteration\ForIteration\obj\Debug\ForIteration.csprojAssemblyReference.cache
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\MVA\C_sharp_Fundamentals\Exercises\ForIteration\ForIteration\obj\Debug\ForIteration.csproj.CoreCompileInputs.cache
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\MVA\C_sharp_Fundamentals\Exercises\ForIteration\ForIteration\obj\Debug\ForIteration.exe
+C:\Users\imran.hashmi.LANGLEYS\source\repos\Learn\C_sharp\MVA\C_sharp_Fundamentals\Exercises\ForIteration\ForIteration\obj\Debug\ForIteration.pdb
