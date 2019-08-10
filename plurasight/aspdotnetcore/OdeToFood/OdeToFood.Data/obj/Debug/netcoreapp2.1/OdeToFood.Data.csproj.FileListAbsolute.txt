@@ -1,0 +1,12 @@
+C:\Users\imran.hashmi.LANGLEYS\source\repos\C_sharp\plurasight\aspdotnetcore\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.deps.json
+C:\Users\imran.hashmi.LANGLEYS\source\repos\C_sharp\plurasight\aspdotnetcore\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.dll
+C:\Users\imran.hashmi.LANGLEYS\source\repos\C_sharp\plurasight\aspdotnetcore\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.pdb
+C:\Users\imran.hashmi.LANGLEYS\source\repos\C_sharp\plurasight\aspdotnetcore\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
+C:\Users\imran.hashmi.LANGLEYS\source\repos\C_sharp\plurasight\aspdotnetcore\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+C:\Users\imran.hashmi.LANGLEYS\source\repos\C_sharp\plurasight\aspdotnetcore\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csprojAssemblyReference.cache
+C:\Users\imran.hashmi.LANGLEYS\source\repos\C_sharp\plurasight\aspdotnetcore\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\imran.hashmi.LANGLEYS\source\repos\C_sharp\plurasight\aspdotnetcore\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.AssemblyInfoInputs.cache
+C:\Users\imran.hashmi.LANGLEYS\source\repos\C_sharp\plurasight\aspdotnetcore\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.AssemblyInfo.cs
+C:\Users\imran.hashmi.LANGLEYS\source\repos\C_sharp\plurasight\aspdotnetcore\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csproj.CopyComplete
+C:\Users\imran.hashmi.LANGLEYS\source\repos\C_sharp\plurasight\aspdotnetcore\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.dll
+C:\Users\imran.hashmi.LANGLEYS\source\repos\C_sharp\plurasight\aspdotnetcore\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.pdb
